@@ -1,0 +1,39 @@
+PRLD
+Images/ProgrammingLogic.jpg
+850.00
+
+Operating Systems
+Images/OperatingSystems.jpg
+950.00
+
+Java Programming
+Images/JavaProgramming.jpg
+800.00
+
+Database Principles
+Images/DatabasePrinciples.jpeg
+790.00
+
+System Analyses And Design
+Images/SystemAnalysis.jpg
+820.00
+
+Pro C# with 9 NET 5
+Images/ProgrammingCsharp.jpg
+840.00
+
+PHP Programming with MySQL
+Images/WebDevelopment.jpg
+940.00
+
+Principles Info. Security
+Images/InformationSecurity.jpg
+860.00
+
+The IIE Masterskill 1
+Images/Masterskill1.jpg
+850.00
+
+The IIE Masterskill 2
+Images/Masterskiill2.jpg
+850.00
